@@ -1,0 +1,58 @@
+[
+    {
+        "id": "01",
+        "name": "HTML",
+        "img": "https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "header": "Hyper Text Markup Language",
+        "description": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.",
+        "body": ""
+    },
+    {
+        "id": "02",
+        "name": "CSS",
+        "img": "https://images.unsplash.com/photo-1524666643752-b381eb00effb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "header": "CSS stands for Cascading Style Sheets",
+        "description": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.",
+        "body": ""
+    },
+    {
+        "id": "03",
+        "name": "JavaScript",
+        "img": "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1161&q=80",
+        "header": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language",
+        "description": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites",
+        "body": ""
+    },
+    {
+        "id": "04",
+        "name": "React",
+        "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "header": "React makes it painless to create interactive UI",
+        "description": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+        "body": ""
+    },
+    {
+        "id": "05",
+        "name": "SQL",
+        "img": "https://images.unsplash.com/photo-1662026911591-335639b11db6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
+        "header": "SQL stands for Structured Query Language",
+        "description": "The intention of SQL (often pronounced sequel) is to store, retrieve, manage and manipulate data within a database management system. SQL was developed by IBM in the early 1970s, and became commercially available in 1979. It is globally accepted as the standard relational database management system (RDBMS).",
+        "body": ""
+    },
+    {
+        "id": "06",
+        "name": "Python",
+        "img": "https://images.unsplash.com/photo-1649180556628-9ba704115795?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
+        "header": "Python is an interpreted, object-oriented, high-level programming language",
+        "description": "Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses. Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose",
+        "body": ""
+    },
+    {
+        "id": "07",
+        "name": "PHP",
+        "img": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "header": "PHP is a server side scripting language",
+        "description": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server",
+        "body": ""
+    }
+]
