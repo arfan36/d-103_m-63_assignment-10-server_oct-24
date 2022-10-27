@@ -28,6 +28,13 @@ app.get('/single-course/:id', (req, res) => {
     res.send(selectCourses);
 });
 
+app.get('/get-premium/:id', (req, res) => {
+    const id = req.params.id;
+
+    const selectCourses = course.find(selected => selected.id === id);
+    res.send(selectCourses);
+});
+
 app.listen(port, () => {
     console.log(`Web Development course running on port: ${port}`);
 });
